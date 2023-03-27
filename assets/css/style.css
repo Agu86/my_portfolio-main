@@ -93,7 +93,7 @@ li {
 
 img,
 button {
-  display: block;
+  display: flex;
 }
 
 a,
@@ -473,9 +473,7 @@ header .btn-group {
   padding: 10px 5px;
 }
 
-#editar {
-  align-items: flex-end;
-}
+
 
 .blog-topic {
   background: var(--action-secondary);
