@@ -473,6 +473,10 @@ header .btn-group {
   padding: 10px 5px;
 }
 
+#editar {
+  align-items: flex-end;
+}
+
 .blog-topic {
   background: var(--action-secondary);
   color: var(--foreground-secondary);
